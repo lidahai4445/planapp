@@ -1,0 +1,5 @@
+-rw-r--r-- 1 21671 197609 57415425 Sep 28 17:41 Paperly-2.3.0-debug.apk
+dee0ebdfc8557e9ca447d0c752810500cad8959b6345959cee9846bca7e65a23 *Paperly-2.3.0-debug.apk
+Performing Streamed Install
+Success
+EXIT=0
